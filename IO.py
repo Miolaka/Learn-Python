@@ -13,4 +13,4 @@ os.remove('./stuff.dat')
 file=urllib.urlopen("http://www.google.com")
 cotent=file.readlines()
 
-print content
+print()
