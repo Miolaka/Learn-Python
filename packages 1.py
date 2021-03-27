@@ -16,3 +16,4 @@ y=numpy.fromfile('gauss_ascii.dat', sep='\n')
 
 pylab.plot(x,y)
 pylab.show()
+#now editing with Linux
